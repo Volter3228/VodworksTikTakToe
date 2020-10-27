@@ -1,0 +1,16 @@
+.tic-tac-toe {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.start {
+  width: 30%;
+  height: 30px;
+}
+
+.start:hover {
+  cursor: pointer;
+}
